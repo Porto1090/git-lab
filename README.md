@@ -1,2 +1,4 @@
-# git-lab
+# git-github-lab
 Git Practice Laboratory
+
+Eduardo Porto Morales 
