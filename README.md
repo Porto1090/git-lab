@@ -40,3 +40,6 @@ print("The result of adding 3 and 5 is:", result)
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, 
 of an Octocat smiling and raising a tentacle.](https://www.thetoychronicle.com/wp-content/uploads/2014/10/GITHUB-OCTOCAT-dead-zebra-Andrew-Bell-side.jpg)
+
+![Mario Esperando](mario.jpeg)
+
